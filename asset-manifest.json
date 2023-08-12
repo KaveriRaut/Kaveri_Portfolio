@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Kaveri_Portfolio/static/css/main.7a11f018.css",
+    "main.js": "/Kaveri_Portfolio/static/js/main.791e8de7.js",
+    "static/media/bg8.jpg": "/Kaveri_Portfolio/static/media/bg8.6f13bd7b102babc399fc.jpg",
+    "static/media/project2.png": "/Kaveri_Portfolio/static/media/project2.da687068f00eb940d9a7.png",
+    "static/media/project3.png": "/Kaveri_Portfolio/static/media/project3.16ff32be9c29a4e911a7.png",
+    "static/media/project5.png": "/Kaveri_Portfolio/static/media/project5.d89220357b19556934f8.png",
+    "static/media/realestate.jpg": "/Kaveri_Portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/project7.png": "/Kaveri_Portfolio/static/media/project7.c21313c6832aa027ebf7.png",
+    "static/media/cpp.png": "/Kaveri_Portfolio/static/media/cpp.666af1b3598c92045b63.png",
+    "static/media/project.jpg": "/Kaveri_Portfolio/static/media/project.a436e432e3282c2d376d.jpg",
+    "static/media/project6.jpg": "/Kaveri_Portfolio/static/media/project6.72d464ce12f4839b0458.jpg",
+    "static/media/workImg.jpeg": "/Kaveri_Portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/T31269_Kaveri_Resume.pdf": "/Kaveri_Portfolio/static/media/T31269_Kaveri_Resume.a54b2b3db06741360965.pdf",
+    "static/media/react.png": "/Kaveri_Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Kaveri_Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/Kaveri_Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/lg.png": "/Kaveri_Portfolio/static/media/lg.3bfc290f257de23b1745.png",
+    "static/media/sql.png": "/Kaveri_Portfolio/static/media/sql.89ddef3f9ad4430d1b45.png",
+    "static/media/tcss.png": "/Kaveri_Portfolio/static/media/tcss.65558e9a039c4220abad.png",
+    "static/media/github.png": "/Kaveri_Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Kaveri_Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/Kaveri_Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/mui2.png": "/Kaveri_Portfolio/static/media/mui2.bd25cdcc0ebe19cc1ebf.png",
+    "static/media/javascript.png": "/Kaveri_Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Kaveri_Portfolio/index.html",
+    "main.7a11f018.css.map": "/Kaveri_Portfolio/static/css/main.7a11f018.css.map",
+    "main.791e8de7.js.map": "/Kaveri_Portfolio/static/js/main.791e8de7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a11f018.css",
+    "static/js/main.791e8de7.js"
+  ]
+}
