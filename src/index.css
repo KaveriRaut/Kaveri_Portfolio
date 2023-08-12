@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap');
+
+/* //to apply styling to multiple things together in css */
+@layer base{
+    body {
+        @apply font-[Raleway];
+    }
+    li{
+        @apply px-4;
+        @apply cursor-pointer;
+    }
+}
+
+/* own custom styling for card-container in < Work /> section */
+.content-div{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+}
+
+.content-div:hover{
+    background-image: linear-gradient(
+        to right,
+        rgba(89, 207, 186, 0.8),
+        hsla(282, 65%, 54%, 0.8)
+    )!important;  /* not to neglect this styling by react heance add important tag */
+}
